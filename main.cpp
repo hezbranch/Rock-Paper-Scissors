@@ -2,7 +2,6 @@
  * rps.cpp
  * Hezekiah Branch
  * 16/September/2018
- * COMP 11 HW2
  * Purpose: Plays Rock Paper Scissors against user
  * Documentation for "std::map" class found at https://www.moderncplusplus.com/map/ 
  and logic inspired by dictionary data type in Python
